@@ -1,6 +1,7 @@
 ## Microsoft Homepage Clone( HTML5/CSS)
-This is a code repository for building: Microsoft homepage from scratch a responsive layout "Mobile First Design" using HTML5/CSS and a bit of JS for the menu.
-in this project, I Learned more about modern CSS features and techniques including CSS grid, flexbox, and responsive media queries
+>This is a code repository for building: Microsoft homepage from scratch a responsive layout "Mobile First Design" using HTML5/CSS.
+in this project.
+>I Learned more about modern CSS features and techniques including CSS grid, flexbox, and responsive media queries
 
 
 ![Screenshot (110)](https://github.com/1754riya/Microsoft-Homepage-clone/assets/167575288/507a6dd9-7ec7-44eb-9dbc-9493848560e2)
